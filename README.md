@@ -7,9 +7,22 @@ Every lesson is written so a total beginner can read it out loud and understand 
 
 | Course | Status | Start here |
 |--------|--------|------------|
-| AI Engineering — 6 weeks | In progress | [courses/ai-engineering/](courses/ai-engineering/README.md) |
+| AI Engineering — 7 weeks | In progress | [courses/ai-engineering/](courses/ai-engineering/README.md) |
 
 More courses get added as their own folder under `courses/`.
+
+## How this repo works
+
+Two halves, one purpose:
+
+```
+courses/    lessons that teach, one folder per course
+product/    the real service those lessons build toward
+```
+
+The course is not abstract. Week 3 produces this product's endpoint, week 6
+deploys it, week 7 takes payments through it. Read
+[product/README.md](product/README.md) for what is being built and why.
 
 ## How the teaching works
 

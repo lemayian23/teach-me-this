@@ -1,4 +1,4 @@
-# AI Engineering — 6 weeks, from zero to deployed
+# AI Engineering — 7 weeks, from zero to paid and deployed
 
 For people who have never coded and want to build AI applications, not just call APIs.
 
@@ -10,6 +10,9 @@ For people who have never coded and want to build AI applications, not just call
 | 4 | Complete RAG Pipelines | Make an LLM answer from *your* documents instead of its memory |
 | 5 | Monitoring & Evaluations | Prove the answer got better, not just different |
 | 6 | Production Deployment | Ship it, roll it back, and know when it breaks |
+| 7 | Keys, Credits & M-Pesa | Charge for the thing through a Daraja STK Push |
+
+Everything above builds the service described in [../../product/README.md](../../product/README.md).
 
 ## Week 1
 
